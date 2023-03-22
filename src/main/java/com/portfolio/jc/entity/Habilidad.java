@@ -17,12 +17,12 @@ public class Habilidad {
     
     private String habilidad;
     
-    private String porcentaje;
+    private int porcentaje;
 
     public Habilidad() {
     }
 
-    public Habilidad(String habilidad, String porcentaje) {
+    public Habilidad(String habilidad, int porcentaje) {
         this.habilidad = habilidad;
         this.porcentaje = porcentaje;
     }
@@ -43,11 +43,11 @@ public class Habilidad {
         this.habilidad = habilidad;
     }
 
-    public String getPorcentaje() {
+    public int getPorcentaje() {
         return porcentaje;
     }
 
-    public void setPorcentaje(String porcentaje) {
+    public void setPorcentaje(int porcentaje) {
         this.porcentaje = porcentaje;
     }
     
