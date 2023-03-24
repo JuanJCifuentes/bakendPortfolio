@@ -4,6 +4,7 @@ com\portfolio\jc\entity\Habilidad.class
 com\portfolio\jc\repository\RHabilidad.class
 com\portfolio\jc\service\SDesarrollo.class
 com\portfolio\jc\service\SEstudio.class
+com\portfolio\jc\WebConfig.class
 com\portfolio\jc\service\SPersona.class
 com\portfolio\jc\repository\REstudio.class
 com\portfolio\jc\repository\RPersona.class
